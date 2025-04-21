@@ -1,0 +1,6 @@
+2025-04-09 19:08:22.896520+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GRZYB" not found (this database is empty); SQL statement:
+SELECT * FROM grzyb WHERE id > ? [42104-232]
+2025-04-09 19:08:50.933853+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "KATEGORIA" not found (this database is empty); SQL statement:
+SELECT * FROM kategoria WHERE id > ? [42104-232]
